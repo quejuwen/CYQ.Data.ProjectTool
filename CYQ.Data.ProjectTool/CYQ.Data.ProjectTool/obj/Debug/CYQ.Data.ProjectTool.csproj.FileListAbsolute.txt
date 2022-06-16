@@ -1,0 +1,14 @@
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.csprojAssemblyReference.cache
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.OpForm.resources
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.Properties.Resources.resources
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.csproj.GenerateResource.cache
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.csproj.CoreCompileInputs.cache
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\VS集成ProjectTool说明.txt
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\CYQ.Data.ProjectTool.exe
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\CYQ.Data.ProjectTool.pdb
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\CYQ.Data.dll
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\CYQ.Data.xml
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.csproj.CopyComplete
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.exe
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\obj\Debug\CYQ.Data.ProjectTool.pdb
+C:\VS2022\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\CYQ.Data.ProjectTool\bin\Debug\ConnExample.txt

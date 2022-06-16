@@ -31,6 +31,8 @@ namespace CYQ.Data.ProjectTool
                 txtProjectPath.Text = Program.path;
             }
             isIniting = false;
+
+            txtConnExample.Text = System.IO.File.ReadAllText("ConnExample.txt");
         }
         void InitConfig()
         {
@@ -120,6 +122,8 @@ namespace CYQ.Data.ProjectTool
                     }
                 }
             }
+
+            
         }
         private void btnTestConn_Click(object sender, EventArgs e)
         {
@@ -359,6 +363,11 @@ namespace CYQ.Data.ProjectTool
             }
         }
         #endregion
+
+        private void OpForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            System.IO.File.WriteAllText("ConnExample.txt", txtConnExample.Text);
+        }
     }
 
 }

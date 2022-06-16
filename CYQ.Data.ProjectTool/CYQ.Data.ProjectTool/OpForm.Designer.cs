@@ -58,6 +58,7 @@
             this.lnkOpenFolder = new System.Windows.Forms.LinkLabel();
             this.lnkCopyPath = new System.Windows.Forms.LinkLabel();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.txtConnExample = new System.Windows.Forms.TextBox();
             this.gbConn.SuspendLayout();
             this.gbBuild.SuspendLayout();
             this.SuspendLayout();
@@ -383,11 +384,22 @@
             this.lnkCopyPath.Text = "复制完整路径";
             this.lnkCopyPath.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkCopyPath_LinkClicked);
             // 
+            // txtConnExample
+            // 
+            this.txtConnExample.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.txtConnExample.Location = new System.Drawing.Point(0, 321);
+            this.txtConnExample.Multiline = true;
+            this.txtConnExample.Name = "txtConnExample";
+            this.txtConnExample.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.txtConnExample.Size = new System.Drawing.Size(524, 164);
+            this.txtConnExample.TabIndex = 9;
+            // 
             // OpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(524, 326);
+            this.ClientSize = new System.Drawing.Size(524, 485);
+            this.Controls.Add(this.txtConnExample);
             this.Controls.Add(this.lnkCopyPath);
             this.Controls.Add(this.lnkOpenFolder);
             this.Controls.Add(this.lnkGotoUrl);
@@ -399,6 +411,7 @@
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CYQ.Data 配置工具 V2.1";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.OpForm_FormClosed);
             this.Load += new System.EventHandler(this.OpForm_Load);
             this.gbConn.ResumeLayout(false);
             this.gbConn.PerformLayout();
@@ -440,6 +453,7 @@
         private System.Windows.Forms.Label lbEntityBean;
         private System.Windows.Forms.CheckBox chbMapName;
         private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.TextBox txtConnExample;
     }
 }
 

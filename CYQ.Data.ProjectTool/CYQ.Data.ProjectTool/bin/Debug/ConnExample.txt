@@ -1,0 +1,10 @@
+Txt::  Txt Path=C:\cyqdata\
+Xml::  Xml Path=E:\cyqdata\
+Access::  Provider=Microsoft.Jet.OLEDB.4.0; Data Source=E:\cyqdata.mdb
+MySql::  host=localhost;port=3306;database=cyqdata;uid=root;pwd=123456;Convert Zero Datetime=True;
+
+Mssql::  server=.;database=cyqdata;uid=sa;pwd=123456; 
+Sybase::  data source=127.0.0.1;port=5000;database=cyqdata;uid=sa;pwd=123456;
+Sqlite::  Data Source=E:\cyqdata.db;failifmissing=false;
+
+Oracle:: Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=127.0.0.1)(PORT = 1521)))(CONNECT_DATA =(SID = DataBaseName)));User ID=sa;password=123456
